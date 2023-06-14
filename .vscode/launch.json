@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Spring Boot-HotelaluraApplication<hotelalura>",
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"mainClass": "com.apphotel.hotelalura.HotelaluraApplication",
+			"projectName": "hotelalura",
+			"args": "",
+			"envFile": "${workspaceFolder}/.env"
+		}
+	]
+}
